@@ -1,18 +1,6 @@
 
-# 🛍OTT 웹서비스![image](https://github.com/user-attachments/assets/8e73ba50-4ac8-4a6d-8e91-e2b759e6950e)
-🛍
-
-<br>
-~~ <span style="background-color: #F7BE81; color:black">~~~</span>입니다.
-
-
-~~ <br>
-~~<br>
-~~<br>
-
-~~ <br>
-~~
-<br>
+# 📺OTT 웹서비스
+![image](https://github.com/user-attachments/assets/ec4ce366-8c16-46d7-9aef-4bf8120ed0e8)
 
 
 ## 📌 목차
