@@ -1,5 +1,6 @@
 
-# 🛍프로젝트명🛍
+# 🛍OTT 웹서비스![image](https://github.com/user-attachments/assets/8e73ba50-4ac8-4a6d-8e91-e2b759e6950e)
+🛍
 
 <br>
 ~~ <span style="background-color: #F7BE81; color:black">~~~</span>입니다.
