@@ -5,74 +5,43 @@
 ## 📌 목차
 
 * [🔎프로젝트 소개](#프로젝트-소개)
-  + [✔ 프로젝트 기본설정 ✔](#프로젝트-기본설정)
-  + [✔ 기술스택 ✔](#프로젝트-기본설정)
-  + [✔ 팀원소개 ✔](#Chatbot-구현)
-  + [✔ 팀원소개 ✔](#팀원소개)
-  + [✔ DB설계 ✔](#DB설계)
+  + [프로젝트 기본설정](#프로젝트-기본설정)
+  + [✔ 기술스택](#프로젝트-기본설정)
+  + [✔ 팀원소개](#팀원소개)
 * [⭐프로젝트 시안](#프로젝트-시안)
     + [✔ 관리자 페이지 구현 ✔](#-관리자-페이지-구현-)
     + [✔ Chatbot 구현 ✔](#-chatbot-구현-)
     + [✔ 강사소개 구현 ✔](#-강사소개-구현-)
     + [✔ INDEX 애니메이션 기능 구현 ✔](#-index-애니메이션-기능-구현-)
-
 <br>
 
 ## 🔎프로젝트 소개
+### 🎥 SNACK 
+   **웹툰,드라마등 다양한 서비스를 즐길수 있는 플랫폼**
 
-<details>
-<summary>프로젝트 기본설정</summary>
+### 🔧 주요 기능
+1. **관리자 페이지**  
+2. **장바구니, 결제**  
+3. **회원가입, 로그인**  
+### 🔍 벤치마킹
+ 참고 사이트 :  [왓챠](https://watcha.com/browse/theater) ,[티빙](https://www.tving.com/onboarding)
 
-|제목|내용|
-|------|---|
-|일정|2024/0/1~2025/0/1|
-|주제||
-|프로젝트명| |
-|프로그래밍 언어|JAVA|
-|프레임워크|Springboot|
-|데이터베이스|MySql8|
-|개발툴|
+### 👨‍💻 팀원 및 담당 파트
 
-
-</details>
-
-<details>
-<summary> 팀원소개</summary>
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center"><a href=""><img src="이미지주소" width="100px;" alt=""/><br /><sub><b>FE 팀장 : 박**</b></sub></a><br /></th>
-</tr>
-<tr>
-
-<td>DB설계, 회원CRUD(개인정보), <br>OAuth2, Security </td>
-<td> 관리자페이지<br>, Chatbot, <br>강사소개 페이지, <br>INDEX 애니메이션 기능 </td>
-<td> 상품목록, 상품상세,<br> 장바구니(시간표), 구매, <br>구매리스트 </td>
-<td> 게시판 CRUD,<br> exception </td>
-<td> INDEX 페이지 CSS ,<br>1:1 문의내역, 덧글</td>
-</tr>
-  </tbody>
-</table>
+| 팀원 | 담당 파트 |
+|------|-------------|
+| 👩‍💻 강** (팀장) | 레이아웃, 깃허브, 웹툰페이지, 결제페이지 |
+| 👨‍💻 김** | 로그인, 애니메이션페이지, 카카오MAP |
+| 👨‍💻 임** | 드라마페이지, 카카오MAP, 장바구니|
+| 👨‍💻 채우진 | 메인페이지, 영화페이지, 관리자페이지|
 
 
+## ✅ Tech Stack
 
-</details>
-
-<details>
-<summary> 타임라인</summary>
-
-![image](이미지주소)
-
-</details>
-
-<details>
-<summary> DB설계 </summary>
-
-![image](이미지주소)
-
-</details>
-<br>
+| 분류 | 기술 스택 |
+|------|------------|
+| FrontEnd | HTML5, JavaScript, CSS, React, Redux, Redux Toolkit |
+| Tools | GitHub, Git, Notion, VSCode |
 
 ## ⭐프로젝트 시안
 ![image](이미지주소)
