@@ -1,7 +1,6 @@
 
 # 📺OTT 웹서비스
-![image](https://github.com/user-attachments/assets/ec4ce366-8c16-46d7-9aef-4bf8120ed0e8)
-
+<img src="https://github.com/user-attachments/assets/ec4ce366-8c16-46d7-9aef-4bf8120ed0e8"  width="700" height="400"/>
 
 ## 📌 목차
 
