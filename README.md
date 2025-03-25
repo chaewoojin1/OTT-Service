@@ -52,7 +52,11 @@
 <summary>메인 페이지 시연 영상</summary>
 
 
-![관리자 페이지 시안영상](영상주소)
+
+
+https://github.com/user-attachments/assets/0022bed9-7d13-4965-83f5-e30e348b5a4f
+
+
 
 ◼ Json-Server에서 이미지 데이터를 받아와 구현<br>
 ◼ 각 카테고리에 맞는 데이터 배치<br>
@@ -68,7 +72,11 @@
 <details>
 <summary>영화페이지  시연 영상</summary>
 
-![chatBot](영상주소)
+
+
+https://github.com/user-attachments/assets/00108dc6-b428-46eb-9b3a-0c2ca23ce788
+
+
 
 ◼ Json-Server에서 이미지 데이터를 받아와 구현<br>
 ◼ 각 장르에 맞는 데이터 배치<br>
@@ -81,7 +89,11 @@
 <details>
 <summary>관리자 페이지 시연 영상</summary>
 
-![강사 소개](이미지주소)
+
+
+https://github.com/user-attachments/assets/8e0c8a4c-2119-43a4-99b6-10283522c283
+
+
 
 ◼ 데이터 관리 페이지<br>
 ◼ 회원 정보 추가,수정,삭제 <br>
